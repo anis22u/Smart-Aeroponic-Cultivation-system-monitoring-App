@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "238183909869",
+    "firebase_url": "https://aeroponics-9e5f1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "aeroponics-9e5f1",
+    "storage_bucket": "aeroponics-9e5f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238183909869:android:3728f93d57c3863733ffe4",
+        "android_client_info": {
+          "package_name": "com.example.smart_aeroponics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238183909869-m9dh22145d44mmne5dsg881tptkmm81o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-51KOsZ482fML8kuTWHJSyWdTbOJmI-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238183909869-m9dh22145d44mmne5dsg881tptkmm81o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
